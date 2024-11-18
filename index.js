@@ -1,6 +1,6 @@
-import Accordion, { AccordionItem } from '../components/Accordion';
-import { AccordionHeader } from '../components/AccordionHeader';
-import { AccordionPanel } from '../components/AccordionPanel';
+import Accordion, { AccordionItem } from 'Accordion';
+import { AccordionHeader } from 'AccordionHeader';
+import { AccordionPanel } from 'AccordionPanel';
 
 export default function Home() {
   return (
